@@ -2,4 +2,4 @@
 Food catalog for learning Symfony 4 functionality
 
 Tutorial
-https://knpuniversity.com/screencast/symfony/twig-love#play
+https://knpuniversity.com/screencast/symfony-fundamentals/bundles-services#play
